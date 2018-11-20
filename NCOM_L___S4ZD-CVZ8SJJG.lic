@@ -1,0 +1,14 @@
+PACKAGE IBDB034BC INTEL 2019.1119 988C01F42ADB COMPONENTS="AdvXEl \
+	ArBBL CCompL Comp-CL Comp-DCAF Comp-FL Comp-OpenMP \
+	Comp-PointerChecker DAAL-L DbgL FCompL IClsTktL IClsValL \
+	ITrAnlL ITrAnlW ITrColL MKernL MPassL PerfAnl PerfPrimL \
+	StaticAnlL ThreadAnlGui ThreadBB" OPTIONS=SUITE ck=132 \
+	SIGN=44226D84581C
+INCREMENT IBDB034BC INTEL 2019.1119 19-nov-2019 uncounted \
+	CE5BC6A68D92 VENDOR_STRING="SUPPORT=STU \
+	https://registrationcenter.intel.com" HOSTID=ID=06488423 \
+	PLATFORMS="i86_r i86_re it64_lr it64_re amd64_re i86_mac \
+	x64_mac" ck=164 SN=SMSACVZ8SJJG SIGN=D5291E7282CC
+#
+# SerialNumber=S4ZD-CVZ8SJJG
+#
