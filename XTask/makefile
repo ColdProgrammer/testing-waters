@@ -22,3 +22,6 @@ $(TARGET) : $(OBJS)
 
 clean :
 	rm -f *.o $(TARGET)
+
+ gcc -I /path-to-NVIDIA/OpenCL/common/inc -L /path-to-NVIDIA/OpenCL/common/lib/Linux64 -o hello hello.c -lOpenCL
+
