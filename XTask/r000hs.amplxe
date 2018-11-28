@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+ <rdmgr>
+  <timestamp type="u64_t">1543434912</timestamp>
+  <hostname type="string">xtask-slayer-2</hostname>
+  <os type="string">linux</os>
+  <product type="string">Intel® VTune™ Amplifier 2019 Update 1</product>
+  <buildNumber type="s32_t">579888</buildNumber>
+  <logicalCPUCount type="s32_t">48</logicalCPUCount>
+  <physicalCoreCount type="s32_t">24</physicalCoreCount>
+  <CPUFrequency type="s64_t">2600000000</CPUFrequency>
+  <CPUFamily type="s32_t">6</CPUFamily>
+  <CPUModel type="s32_t">85</CPUModel>
+  <CPUStepping type="s32_t">4</CPUStepping>
+  <CPUBrandName type="string">Intel(R) Xeon(R) Gold 6126 CPU @ 2.60GHz</CPUBrandName>
+  <isa type="string">avx512</isa>
+  <collectionTimeBegin type="u64_t">1543434912</collectionTimeBegin>
+  <collectionTimeEnd type="u64_t">1543434922</collectionTimeEnd>
+  <variables>
+   <at type="string">hs</at>
+  </variables>
+ </rdmgr>
+</root>
