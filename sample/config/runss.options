@@ -1,5 +1,5 @@
 -r
-/home/cc/intel/vtune_amplifier_2019.1.0.579888/r003hs
+/home/cc/intel/vtune_amplifier_2019.1.0.579888/r004hs
 --stack-stitching
 --data-limit-mb=1000
 --disk-space-limit=0
@@ -15,4 +15,4 @@
 --collector=perf
 --count
 --
-/home/cc/testing-waters/XTask/Fibonacci/fib_20
+/home/cc/testing-waters/XTask/Fibonacci/fib_30
