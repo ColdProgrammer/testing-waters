@@ -1,0 +1,5 @@
+52 [140099940034304] INFO mrtehelpers.mrteenv <> - Product libs directory: /home/cc/intel/vtune_amplifier_2019.1.0.579888/lib64
+52 [140099940034304] INFO mrtehelpers.mrteenv <> - File mask: amplxe_samplingmrte_clrprof*
+60 [140099940034304] INFO mrtehelpers.mrteenv <> - File name: libamplxe_samplingmrte_clrprof_1.0.so
+60 [140099940034304] INFO mrtehelpers.mrteenv <> - File mask: amplxe_samplingmrte_clrprof*
+66 [140099940034304] INFO mrtehelpers.mrteenv <> - File name: libamplxe_samplingmrte_clrprof_1.0.so
