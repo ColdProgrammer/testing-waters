@@ -1,0 +1,19 @@
+VTune Linux Perf Time Sync: 1
+VTune Start SYS 321748471539762:321748471604031:321748471661657:321748471718416:321748471775081:321748471831758:321748471888383:321748471947396
+ amplxe-perf-syn 94454 321752.106568: context-switches:  ffffffff81853515 [unknown] ([unknown])
+ amplxe-perf-syn 94454 321752.106628: context-switches:  ffffffff81853515 [unknown] ([unknown])
+ amplxe-perf-syn 94454 321752.106685: context-switches:  ffffffff81853515 [unknown] ([unknown])
+ amplxe-perf-syn 94454 321752.106741: context-switches:  ffffffff81853515 [unknown] ([unknown])
+ amplxe-perf-syn 94454 321752.106798: context-switches:  ffffffff81853515 [unknown] ([unknown])
+ amplxe-perf-syn 94454 321752.106855: context-switches:  ffffffff81853515 [unknown] ([unknown])
+ amplxe-perf-syn 94454 321752.106911: context-switches:  ffffffff81853515 [unknown] ([unknown])
+ amplxe-perf-syn 94454 321752.106971: context-switches:  ffffffff81853515 [unknown] ([unknown])
+VTune End SYS 321748975083641:321748975147855:321748975205341:321748975262154:321748975334404:321748975393806:321748975453309:321748975512746
+ amplxe-perf-syn 94510 321752.610090: context-switches:  ffffffff81853515 [unknown] ([unknown])
+ amplxe-perf-syn 94510 321752.610148: context-switches:  ffffffff81853515 [unknown] ([unknown])
+ amplxe-perf-syn 94510 321752.610205: context-switches:  ffffffff81853515 [unknown] ([unknown])
+ amplxe-perf-syn 94510 321752.610262: context-switches:  ffffffff81853515 [unknown] ([unknown])
+ amplxe-perf-syn 94510 321752.610335: context-switches:  ffffffff81853515 [unknown] ([unknown])
+ amplxe-perf-syn 94510 321752.610394: context-switches:  ffffffff81853515 [unknown] ([unknown])
+ amplxe-perf-syn 94510 321752.610454: context-switches:  ffffffff81853515 [unknown] ([unknown])
+ amplxe-perf-syn 94510 321752.610513: context-switches:  ffffffff81853515 [unknown] ([unknown])
